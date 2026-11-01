@@ -1,6 +1,6 @@
 # MizFR
 
-MizFR は、VRChat のワールド向けの描画最適化ツールです。MIZPRISM が開発しています。
+MizFR は VRChat のワールド向けの描画最適化ツールです。MIZPRISM が開発しています。
 
 このリポジトリは配布用です。VRChat Creator Companion (VCC) が読むパッケージの一覧と、配布する zip を置いています。
 
