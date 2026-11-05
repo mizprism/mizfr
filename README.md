@@ -2,18 +2,17 @@
 
 MizFR は VRChat のワールド向けの描画最適化ツールです。MIZPRISM が開発しています。
 
-このリポジトリは配布用です。VRChat Creator Companion (VCC) が読むパッケージの一覧と、配布する zip を置いています。
+## MizFR World の利用規約
 
-## 入れ方
+BOOTH で販売する MizFR World の利用規約の全文です。購入する前に読めるように置いています。購入した zip にも同じ規約が入っています。
 
-準備中です。まだパッケージは配布していません。公開したら、ここに手順を書きます。
+- [MizFR World利用規約](TERMS-ja.md)
+- [MizFR World Terms of Use](TERMS-en.md) (英語の参考訳です。効力があるのは日本語の規約だけです)
 
-パッケージの一覧の URL は次のとおりです。
+## VCC のパッケージの一覧
+
+このリポジトリには、VRChat Creator Companion (VCC) が読むパッケージの一覧も置いています。まだパッケージは配布していません。
 
 ```
 https://mizprism.github.io/mizfr/index.json
 ```
-
-## ライセンス
-
-配布物に同梱の `LICENSE.md` をご覧ください。
