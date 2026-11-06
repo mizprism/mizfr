@@ -13,6 +13,12 @@ BOOTH で販売する MizFR World の利用規約の全文です。購入する�
 
 - [MizFR World 更新履歴](CHANGELOG.md)
 
+## MizFR World の測定結果
+
+機能ごとに、フレーム時間がどう変わったかを測定した結果です。説明書と BOOTH の商品ページには数字を載せず、ここにまとめています。
+
+- [MizFR World の測定結果](MEASUREMENTS.md)
+
 ## VCC のパッケージの一覧
 
 このリポジトリには、VRChat Creator Companion (VCC) が読むパッケージの一覧も置いています。まだパッケージは配布していません。
